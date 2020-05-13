@@ -1,0 +1,23 @@
+{
+  "name": "dlivert",
+  "version": "1.0.0",
+  "description": "Dlive Twitter Bot (NodeJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: No test Specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorelli25/Twitter-Bot.git"
+  },
+  "author": "Brandon Morelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorelli25/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/bmorelli25/Twitter-Bot#readme",
+  "dependencies": {
+    "hookcord": "^2.0.2",
+    "twitter": "^1.7.1"
+  }
+}
