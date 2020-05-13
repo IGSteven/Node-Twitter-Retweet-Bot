@@ -5,6 +5,7 @@ Mixer bot: https://twitter.com/RetweetsMixer
 Dlive Bot: https://twitter.com/DliveRetweets
 
 # Config.js 
+```
 module.exports = {
   consumer_key: '',
   consumer_secret: '',
@@ -12,3 +13,4 @@ module.exports = {
   access_token_secret: '',
   query: "dlive.tv @dliveretweets"
 }
+```
