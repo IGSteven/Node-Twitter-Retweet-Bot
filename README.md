@@ -1,3 +1,6 @@
+#THIS HAS BEEN ARCHIVED!
+This has been archived and is not longer been actively worked on after mixer closed down and dlive went to...
+
 # Node-Twitter-Retweet-Bot
 
 # Account
